@@ -1,0 +1,22 @@
+{
+  "wheel_id": 897,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-125",
+  "project": "retaining-wall-builders-geelong-beginner-guide-45e9266a49ac1a5f",
+  "parent_t1_ref": "retainingwallgeelong-162",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall builders geelong beginner guide",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-geelong-beginner-guide-45e9266a49ac1a5f/",
+  "tier": "T2",
+  "writeback_nonce": "7021109a59b4c5e8",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-geelong-what-to-expect-773787a35732ff58.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the retaining wall builders geelong what to expect overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
